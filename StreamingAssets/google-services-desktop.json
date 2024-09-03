@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622577481751",
+    "project_id": "d-5bce0",
+    "storage_bucket": "d-5bce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622577481751:android:02e2582edb328f55810452",
+        "android_client_info": {
+          "package_name": "com.Zomobgames.Lets20483d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622577481751-tii5fm2fjbmm5a0u136o1olhg84oq8m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhpl5yK2hYbAM2KzhcW2QWKc8Pb_s8YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622577481751-tii5fm2fjbmm5a0u136o1olhg84oq8m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
